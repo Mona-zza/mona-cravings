@@ -1,0 +1,22 @@
+body {
+    background-color:pink;
+}
+.gallery{
+    display:inline-block;
+    margin:5px;
+}
+.btn {
+  background-color: #ffb6c1;
+  border: none;
+  border-radius: 10px;
+  color:black;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #ff69b4;
+  transform: scale(1.05);
+}
